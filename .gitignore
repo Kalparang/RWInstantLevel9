@@ -1,0 +1,25 @@
+# Local builds and editor state
+/build/
+/dist/
+/.vs/
+/.idea/
+/.vscode/
+__pycache__/
+*.py[cod]
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.exp
+
+# Private runtime, save, and analysis data
+/_Save/
+/backups/
+/research/
+*.ob
+*.log
+*.dmp
+*.mdmp
+RWInstantLevel9.disabled
+.env
+.env.*
